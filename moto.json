@@ -1,5 +1,5 @@
 {
-  "Version": "12.2.0.",
+  "Version": "12.2.0.0",
   "Title": "V2rayVPN",
   "Subtitle": "",
   "Features": "VPN🇩🇪🇬🇧🇲🇫⚡",
@@ -8,6 +8,6 @@
   "BtnUpdate": "مدیر تلگرام کلید",
   "Url": "https://t.me/grassmohammad",
   "ForceUpdate": false,
-  "Reminder": "0m",      
+  "Reminder": "6d",      
   "BtnTimer": 0         
 }
