@@ -1,12 +1,12 @@
 {
-  "Version": "12.2.0.0",
+  "Version": "12.2.0.",
   "Title": "V2rayVPN",
   "Subtitle": "",
   "Features": "VPN🇩🇪🇬🇧🇲🇫⚡",
-  "Description": "دانلود",
+  "Description": "لطفاً کم مصرف کنید از فیلترشکن استفاده زیادی به امکان زیاد قطع شود 🚫 🚫",
   "BtnLater": "باز شود",
-  "BtnUpdate": "مدیر تلگرام کلید",
-  "Url": "https://t.me/grassmohammad",
+  "BtnUpdate": "سهمیه کل",
+  "Url": "https://www.v2rayvpn.de5.net/admin",
   "ForceUpdate": false,
   "Reminder": "6d",      
   "BtnTimer": 0         
