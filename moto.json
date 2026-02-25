@@ -7,7 +7,12 @@
   "BtnLater": "باز شود",
   "BtnUpdate": "آسهمیه کل",
   "Url": "https://www.v2rayvpn.de5.net/",
-  "ForceUpdate": false,
+  "ForceUpdate": true,
   "Reminder": "0m",      
   "BtnTimer": 0         
 }
+
+
+
+true
+false
