@@ -3,11 +3,11 @@
   "Title": "V2rayVPN",
   "Subtitle": "",
   "Features": "🇩🇪🚫❌",
-  "Description": "لطفاً کم مصرف کنید از فیلترشکن استفاده زیادی به امکان زیاد قطع شود 🚫 🚫🇩🇪",
+  "Description": "رادار مانیتورینگ چابکان لحظه‌ای",
   "BtnLater": "باز شود",
   "BtnUpdate": "آسهمیه کل",
-  "Url": "https://www.v2rayvpn.de5.net/",
-  "ForceUpdate": true,
+  "Url": "https://radar.chabokan.net/",
+  "ForceUpdate": false,
   "Reminder": "0m",      
   "BtnTimer": 0         
 }
