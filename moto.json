@@ -6,8 +6,8 @@
   "Description": "🖥️💻📈📉📊رادار مانیتورینگ چابکان لحظه‌ای",
   "BtnLater": "باز شود",
   "BtnUpdate": "آآنلاین",
-  "Url": "https://radar.chabokan.net/",
-  "ForceUpdate": false,
+  "Url": "",
+  "ForceUpdate": true,
   "Reminder": "0m",      
   "BtnTimer": 0         
 }
